@@ -26,4 +26,7 @@
 -FF26BE?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
 
 ### Preview
-
+#### 와이어프레임
+![UI_SC_01](./img/UI_SC_01.png)
+#### 유저 편의성 고려
+![UI_SC_02](./img/UI_SC_02.png)
