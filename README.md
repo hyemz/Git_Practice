@@ -1,4 +1,4 @@
-# 공통 PJT BootCamp
+# Git을 연습하자!💬
 ## 0107_Git 실습
 ### git 기본
 * git에서 브랜치 쓰기
@@ -20,10 +20,8 @@
 
 ## 0108_UI 실습
 ### Tool
-<img src="https://img.shields.io/badge/PowerPoint
--B7472A?style=flat-square&logo=Microsoft PowerPoint&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe XD
--FF26BE?style=flat-square&logo=Adobe XD&logoColor=white"/></a>
+<p><img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=MicrosoftPowerPoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white"/></p>
 
 ### Preview
 #### 와이어프레임
